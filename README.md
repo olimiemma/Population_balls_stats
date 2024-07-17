@@ -7,4 +7,6 @@
 ![Screenshot from 2024-07-17 17-55-33](https://github.com/user-attachments/assets/0ed9d692-c6b8-4aaf-b49f-98df823ab2ca)
 
 
-AOB: You can just re-build the App and UI in VS code or something. ASK Claude or something they will walk you through it step by step
+AOB: You can just rebuild the app and UI in VS Code or something. Ask Claude or another assistant; they will walk you through it step by step.
+
+Also, those huge green and orange circles in one of the images—the ones that can't even fit on the screen—yeah, that's China and India. It's just to show how large those populations are. We keep forgetting that a billion is a  big fucking number. lol
